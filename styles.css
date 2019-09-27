@@ -1,0 +1,33 @@
+#name {
+    color: white;
+    background-color: darkgreen;
+}
+
+.nestbody{
+    width: 60%;
+    height: auto;
+    text-align: center;
+}
+
+.image{
+    border-radius: 50%;
+}
+.history{
+    
+    column-count: 3;
+}
+
+h2 {
+    text-decoration: underline;
+    font-style: italic;
+    color: purple;
+}
+
+ul {
+    list-style-position: inside;
+    color: red;
+}
+
+p {
+    font-weight: bold;
+}
